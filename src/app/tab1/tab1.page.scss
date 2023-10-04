@@ -1,0 +1,32 @@
+ion-toolbar{
+    --background: #000000;
+}
+ion-card{
+    --background:black;
+}
+ion-content{
+    --background:url(../../assets/arcFund.jpeg);
+}
+.titulo{
+    font-weight: 200;
+    font-family: sans-serif;
+    text-align: center;
+}
+ion-card{
+    font-weight: 200;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+}
+.logo{
+    width: 70%;
+}
+.infor{
+    font-family:monospace;
+}
+.bton{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+}
